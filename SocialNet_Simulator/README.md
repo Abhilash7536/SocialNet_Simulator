@@ -1,11 +1,8 @@
 # SocialNet Simulator
-
-**Course:** COL106 - Data Structures and Algorithms  
-**Institute:** Indian Institute of Technology Delhi  
-**Name:** Mora Adarsha  
-**Entry Number:** 2024CS10367  
-**Assignment:** Long Assignment 2  
-**Date:** November 5, 2025
+ 
+**Institute:** Indian Institute of Technology Guwahati 
+**Name:** Abhilash Bhashyakarla
+**Roll Number:** 240101028  
 
 ---
 
